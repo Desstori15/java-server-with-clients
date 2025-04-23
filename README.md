@@ -8,8 +8,7 @@ A multithreaded TCP chat application built in Java. The server supports multiple
 
 ##  Project Structure
 
-📁 java-server-with-clients/ ├── src/ │ ├── Server/ │ │ └── Server.java # Main server logic with thread-based client handling │ ├── Client/ │ │ └── Client.java # Simple client with real-time chat capabilities ├── server_config.txt # Server settings (port, name, banned phrases) ├── README.md # You're here!
-
+<pre> ```bash java-server-with-clients/ ├── src/ │ ├── Server/ │ │ └── Server.java │ ├── Client/ │ │ └── Client.java ├── server_config.txt ├── README.md ``` </pre>
 
 ---
 
