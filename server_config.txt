@@ -1,0 +1,3 @@
+port=1515
+serverName=Fifteen
+bannedPhrases=idiot, moron, jerk, dumb, stupid, loser, fool, scum, bastard, imbecile, retard, freak, douche, creep
